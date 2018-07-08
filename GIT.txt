@@ -1,0 +1,53 @@
+GIT
+
+Repository: 
+Clone
+Add/Update....
+add - local repository
+commit(comment/Description)
+push(publish local repo to git server)
+
+
+master(Main branch)
+Branch name will be start camel case
+
+Person B:
+
+Clone master from server
+
+___________
+Switch to master
+update
+switch to teacher(Branch)
+pull master
+
+
+After completeing all work in branches________
+
+switch to master
+merge teacher with master
+
+__________
+Commands:
+
+
+
+
+1. git clone url
+2. git status
+3. git add --all
+4. git status 
+5. git commit -m'comments'
+6. git push origin branchName
+________
+create new branch:
+
+1. git checkout -b branchName
+
+For switch branch:
+
+1. git checkout branchName
+
+For merge::
+
+1. git merge branchName
