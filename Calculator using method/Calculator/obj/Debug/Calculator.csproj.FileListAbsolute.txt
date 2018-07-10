@@ -1,0 +1,17 @@
+C:\Users\Web App Develop .Net\Desktop\dotnet51\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Web App Develop .Net\Desktop\dotnet51\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\dotnet51\Calculator\Calculator\obj\Debug\Calculator.calculatorForm.resources
+C:\Users\Web App Develop .Net\Desktop\dotnet51\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Web App Develop .Net\Desktop\dotnet51\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Web App Develop .Net\Desktop\dotnet51\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Web App Develop .Net\Desktop\dotnet51\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Web App Develop .Net\Desktop\dotnet51\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Web App Develop .Net\Desktop\dotnet51\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Web App Develop .Net\Desktop\dotnet51\Calculator using method\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Web App Develop .Net\Desktop\dotnet51\Calculator using method\Calculator\obj\Debug\Calculator.exe
+C:\Users\Web App Develop .Net\Desktop\dotnet51\Calculator using method\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Web App Develop .Net\Desktop\dotnet51\Calculator using method\Calculator\obj\Debug\Calculator.calculatorForm.resources
+C:\Users\Web App Develop .Net\Desktop\dotnet51\Calculator using method\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Web App Develop .Net\Desktop\dotnet51\Calculator using method\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Web App Develop .Net\Desktop\dotnet51\Calculator using method\Calculator\bin\Debug\Calculator.exe
+C:\Users\Web App Develop .Net\Desktop\dotnet51\Calculator using method\Calculator\bin\Debug\Calculator.pdb

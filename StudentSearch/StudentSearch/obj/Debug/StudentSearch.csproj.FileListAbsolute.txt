@@ -1,0 +1,18 @@
+C:\Users\Web App Develop .Net\Desktop\dotnet51\StudentSearch\StudentSearch\bin\Debug\StudentSearch.exe.config
+C:\Users\Web App Develop .Net\Desktop\dotnet51\StudentSearch\StudentSearch\bin\Debug\StudentSearch.exe
+C:\Users\Web App Develop .Net\Desktop\dotnet51\StudentSearch\StudentSearch\bin\Debug\StudentSearch.pdb
+C:\Users\Web App Develop .Net\Desktop\dotnet51\StudentSearch\StudentSearch\obj\Debug\StudentSearch.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\dotnet51\StudentSearch\StudentSearch\obj\Debug\StudentSearch.Properties.Resources.resources
+C:\Users\Web App Develop .Net\Desktop\dotnet51\StudentSearch\StudentSearch\obj\Debug\StudentSearch.StudentSearch.resources
+C:\Users\Web App Develop .Net\Desktop\dotnet51\StudentSearch\StudentSearch\obj\Debug\StudentSearch.csproj.GenerateResource.Cache
+C:\Users\Web App Develop .Net\Desktop\dotnet51\StudentSearch\StudentSearch\obj\Debug\StudentSearch.exe
+C:\Users\Web App Develop .Net\Desktop\dotnet51\StudentSearch\StudentSearch\obj\Debug\StudentSearch.pdb
+D:\dotnet51\StudentSearch\StudentSearch\bin\Debug\StudentSearch.exe.config
+D:\dotnet51\StudentSearch\StudentSearch\obj\Debug\StudentSearch.exe
+D:\dotnet51\StudentSearch\StudentSearch\obj\Debug\StudentSearch.pdb
+D:\dotnet51\StudentSearch\StudentSearch\bin\Debug\StudentSearch.exe
+D:\dotnet51\StudentSearch\StudentSearch\bin\Debug\StudentSearch.pdb
+D:\dotnet51\StudentSearch\StudentSearch\obj\Debug\StudentSearch.csprojResolveAssemblyReference.cache
+D:\dotnet51\StudentSearch\StudentSearch\obj\Debug\StudentSearch.Properties.Resources.resources
+D:\dotnet51\StudentSearch\StudentSearch\obj\Debug\StudentSearch.StudentSearch.resources
+D:\dotnet51\StudentSearch\StudentSearch\obj\Debug\StudentSearch.csproj.GenerateResource.Cache
